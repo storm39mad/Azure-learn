@@ -1,4 +1,4 @@
-# AZ-900 Exam Preparation: Microsoft Azure Fundamentals
+# Подготовка к экзамену AZ-900: основы Microsoft Azure
 
 # Описание
 
